@@ -1,0 +1,14 @@
+{
+  "name": "three-lanes-group",
+  "description": "Master Key plugins from Three Lanes Group",
+  "owner": {
+    "name": "Three Lanes Group, LLC"
+  },
+  "plugins": [
+    {
+      "name": "master-key",
+      "source": "./plugins/master-key",
+      "description": "Set up and run the Master Key system for your trade business."
+    }
+  ]
+}

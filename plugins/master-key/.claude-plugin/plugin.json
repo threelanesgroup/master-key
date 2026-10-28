@@ -1,0 +1,10 @@
+{
+  "name": "master-key",
+  "displayName": "Master Key",
+  "version": "1.0.0",
+  "description": "The Master Key system for trade shop owners: sets up your business files, then runs your morning brief, inbox sweep, follow-up list and weekly review in your voice. It drafts; you approve.",
+  "author": {
+    "name": "Three Lanes Group, LLC"
+  },
+  "license": "Proprietary"
+}
